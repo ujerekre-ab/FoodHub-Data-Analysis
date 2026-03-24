@@ -9,20 +9,20 @@ Tools & Technologies
 
 Python,
 Pandas,
-Matplotlib / Seaborn
+Matplotlib / Seaborn.
 
 Key Tasks
 
 Data cleaning and preprocessing,
 Exploratory Data Analysis (EDA),
 Customer segmentation,
-Delivery performance analysis
+Delivery performance analysis.
 
 Key Insights
 
 Peak orders occur during high-demand periods,
 Delivery delays impact customer satisfaction,
-Customer segmentation helps target marketing strategies
+Customer segmentation helps target marketing strategies.
 
 Outcome
 
