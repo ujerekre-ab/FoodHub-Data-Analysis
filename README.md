@@ -1,29 +1,29 @@
 # FoodHub-Data-Analysis
 Data analysis project exploring customer behavior and delivery performance
 
-Objective
+Objective:
 
 Analyze customer order data to identify trends, preferences, and operational inefficiencies.
 
-Tools & Technologies
+Tools & Technologies:
 
 Python,
-Pandas,
+Pandas, and
 Matplotlib / Seaborn.
 
-Key Tasks
+Key Tasks:
 
 Data cleaning and preprocessing,
 Exploratory Data Analysis (EDA),
-Customer segmentation,
+Customer segmentation, and
 Delivery performance analysis.
 
-Key Insights
+Key Insights:
 
 Peak orders occur during high-demand periods,
-Delivery delays impact customer satisfaction,
+Delivery delays impact customer satisfaction, and
 Customer segmentation helps target marketing strategies.
 
-Outcome
+Outcome:
 
 Generated actionable insights to improve decision-making and operational efficiency.
