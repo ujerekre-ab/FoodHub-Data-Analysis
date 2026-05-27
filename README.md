@@ -31,16 +31,16 @@ Generated actionable insights to improve decision-making and operational efficie
 # FoodHub Order Optimization & Delivery Performance Analysis
 A data analytics case study leveraging Python to optimize delivery logistics and analyze customer ordering behavior.
 
-## 📌 Objective
+## Objective
 Analyze a dataset of food delivery orders to diagnose operational inefficiencies, isolate the root causes of delivery delays, and build customer segmentation frameworks to increase retention and revenue.
 
-## 🛠️ Tech Stack & Technical Competencies
+## Tech Stack & Technical Competencies
 * **Language:** Python
 * **Data Libraries:** Pandas, NumPy
 * **Data Visualization:** Matplotlib, Seaborn
 * **Analytical Frameworks:** Exploratory Data Analysis (EDA), Feature Engineering, Statistical Data Distribution, Behavioral Customer Segmentation
 
-## 🚀 Key Tasks & Technical Execution
+## Key Tasks & Technical Execution
 
 ### 1. Data Cleaning & Preprocessing (Pandas)
 * Handled missing values, standardized timestamps, and audited transactional records for structural consistency.
@@ -54,15 +54,23 @@ Analyze a dataset of food delivery orders to diagnose operational inefficiencies
 * Isolated peak operational bottlenecks by calculating average transit delays across specific geolocations.
 * Aggregated data to contrast processing times of top-performing restaurants against lagging vendors.
 
----
-
-## 📊 Key Executive Insights & Business Impact
+## Key Executive Insights & Business Impact
 
 * **Logistical Bottlenecks Identified:** The data revealed a significant spike in delivery transit delays during weekend dinner peaks, specifically driven by restaurant preparation backlogs rather than driver shortages.
-* **Operational Inefficiencies:** 15% of high-volume restaurants accounted for nearly 40% of all delivery delays, indicating a clear vendor-level processing bottleneck.
+* **Operational Inefficiencies:** 10.54% of orders had a total delivery time (food preparation time + delivery time) exceeding 60 minutes. This indicates potential delays in either food preparation or delivery logistics.
 * **Actionable Segmentation Strategy:** Classified customers by ordering frequency and order value. Identified a high-value "Weekend Regular" cohort that generates the highest average order value (AOV), providing an ideal segment for targeted marketing promotions.
 
-## 📈 Dashboard & Chart Previews
+## Dashboard & Chart Previews
+# Creating boxplots for delivery_time by day_of_the_week
+plt.figure(figsize=(8, 6))
+sns.boxplot(data=df, x='day_of_the_week', y='delivery_time');
+plt.title('Delivery Time by Day of the Week')
+plt.xlabel('Day of the Week')
+plt.ylabel('Delivery Time (minutes)')
+plt.tight_layout()
+plt.show()
+<img width="790" height="590" alt="download" src="https://github.com/user-attachments/assets/aa695018-64c9-4c0a-a9d0-7fdd1c06e36e" />
+
 
 
 
