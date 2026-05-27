@@ -61,14 +61,8 @@ Analyze a dataset of food delivery orders to diagnose operational inefficiencies
 * **Actionable Segmentation Strategy:** Classified customers by ordering frequency and order value. Identified a high-value "Weekend Regular" cohort that generates the highest average order value (AOV), providing an ideal segment for targeted marketing promotions.
 
 ## Dashboard & Chart Previews
-# Creating boxplots for delivery_time by day_of_the_week
-plt.figure(figsize=(8, 6))
-sns.boxplot(data=df, x='day_of_the_week', y='delivery_time');
-plt.title('Delivery Time by Day of the Week')
-plt.xlabel('Day of the Week')
-plt.ylabel('Delivery Time (minutes)')
-plt.tight_layout()
-plt.show()
+<img width="1489" height="234" alt="Screenshot 2026-05-27 141113" src="https://github.com/user-attachments/assets/49b869a8-7278-4cec-9b77-4c5b62fb120a" />
+
 <img width="790" height="590" alt="download" src="https://github.com/user-attachments/assets/aa695018-64c9-4c0a-a9d0-7fdd1c06e36e" />
 
 
