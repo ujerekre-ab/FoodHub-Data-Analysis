@@ -20,7 +20,7 @@ Analyze a dataset of food delivery orders to diagnose operational inefficiencies
 - Are weekend orders associated with longer delivery times?
 - Which restaurants demonstrate the most efficient fulfillment performance?
 
-  ## Skills Demonstrated
+## Skills Demonstrated
 
 - Data Cleaning
 - Data Wrangling
