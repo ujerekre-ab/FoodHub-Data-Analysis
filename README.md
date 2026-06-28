@@ -1,15 +1,40 @@
 # FoodHub-Data-Analysis
-A data analytics case study leveraging Python to optimize delivery logistics and analyze customer ordering behavior.
+## Project Overview
+FoodHub is a food delivery platform seeking to improve customer satisfaction and operational efficiency. This project analyzes order and delivery data to identify fulfillment bottlenecks, customer behavior patterns, and opportunities for improving service performance.
+Dataset Size: 1,898 food delivery orders
+Tools Used: Python, Pandas, NumPy, Matplotlib, Seaborn
 
 ## Objective
 Analyze a dataset of food delivery orders to diagnose operational inefficiencies, isolate the root causes of delivery delays, and build customer segmentation frameworks to increase retention and revenue.
 
-## Tech Stack & Technical Competencies
+## Tools & Technologies
 * **Language:** Python
 * **Data Libraries:** Pandas, NumPy
 * **Data Visualization:** Matplotlib, Seaborn
 * **Analytical Frameworks:** Exploratory Data Analysis (EDA), Feature Engineering, Statistical Data Distribution, Behavioral Customer Segmentation
 
+## Business Questions
+
+- What factors contribute most to delivery delays?
+- Which customer segments generate the highest revenue?
+- Are weekend orders associated with longer delivery times?
+- Which restaurants demonstrate the most efficient fulfillment performance?
+
+  ## Skills Demonstrated
+
+- Data Cleaning
+- Data Wrangling
+- Exploratory Data Analysis (EDA)
+- Statistical Analysis
+- Data Visualization
+- Customer Segmentation
+- Business Analytics
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+  
 ## Key Tasks & Technical Execution
 
 ### 1. Data Cleaning & Preprocessing (Pandas)
