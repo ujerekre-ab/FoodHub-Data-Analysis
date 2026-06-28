@@ -56,6 +56,10 @@ Analyze a dataset of food delivery orders to diagnose operational inefficiencies
 * **Actionable Segmentation Strategy:** Classified customers by ordering frequency and order value. Identified a high-value "Weekend Regular" cohort that generates the highest average order value (AOV), providing an ideal segment for targeted marketing promotions.
 
 ## Dashboard & Chart Previews
+<img width="1748" height="319" alt="Screenshot (53)" src="https://github.com/user-attachments/assets/a0f963ee-8089-4bf6-96a9-968b8638dd73" />
+
+<img width="1789" height="741" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/a0c74e46-e8f0-4a5e-8ef4-4210ae1f6105" />
+
 <img width="1489" height="234" alt="Screenshot 2026-05-27 141113" src="https://github.com/user-attachments/assets/49b869a8-7278-4cec-9b77-4c5b62fb120a" />
 
 <img width="790" height="590" alt="download" src="https://github.com/user-attachments/assets/aa695018-64c9-4c0a-a9d0-7fdd1c06e36e" />
